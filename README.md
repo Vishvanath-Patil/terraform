@@ -1,4 +1,6 @@
 Amazon EKS (Elastic Kubernetes Service)
+=======================================
+
 Amazon EKS is a fully managed Kubernetes service. Customers trust EKS to run their most sensitive and mission critical applications because of its security, reliability, and scalability.
 
 This module will create an EKS cluster on AWS. It will have a control plane and you can register multiple heterogeneous node groups as data plane.
